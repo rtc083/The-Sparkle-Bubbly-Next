@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://old-cute-jellyfish-ma20if.teleporthq.app/sitemap.xml
